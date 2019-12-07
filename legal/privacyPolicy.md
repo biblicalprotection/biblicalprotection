@@ -16,13 +16,10 @@ The app does use third party services that may collect information used to ident
 
 Third party service providers used by the app:
 
-Google Play Services: https://policies.google.com/privacy
-
-Google Chrome: https://www.google.com/chrome/privacy/
-
-Google Analytics: https://policies.google.com/privacy
-
-Crashlytics: https://policies.google.com/privacy
+- Google Play Services: https://policies.google.com/privacy
+- Google Chrome: https://www.google.com/chrome/privacy/
+- Google Analytics: https://policies.google.com/privacy
+- Crashlytics: https://policies.google.com/privacy
 
 ## Log Data
 
