@@ -1,5 +1,5 @@
 {"prohibitedDomains":[
   ".*\\.xxx",
   ".*pornhub.*"],
-  "defaultUrl": "https://www.google.com/"
+  "defaultUrl": "https://www.google.com/?safe=active"
 }
